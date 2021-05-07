@@ -29,7 +29,7 @@ Trata-se de um script bem básico que criei porque sou preguiçoso. Não está b
 6. Executar o comando `python prices_picker.py`. O script abrirá o Profit e começará a leitura depois de uma pergunta e uma confirmação.
 Não mexer o mouse após isto (para coletar as informações dos 180 ativos padrão o tempo estimado é de ~8 minutos).
 
-> **Caso queira cancelar o script por qualquer motivo, arraste o mouse para qualquer canto da tela e de um clique.**
+> **Caso queira cancelar o script por qualquer motivo, arraste o mouse para qualquer canto da tela e dê um clique.**
 
 7. Após finalizados todos ativos, o script aglomerará todas informações no arquivo `combined.csv` contido na pasta `csvs`, além de manter um arquivo para cada ticker analisado.
 
