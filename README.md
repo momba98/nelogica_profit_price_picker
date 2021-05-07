@@ -1,4 +1,4 @@
-# profit_price_picker
+# nelogica_profit_price_picker
 
  Collect all price data in Profit at once!
 
