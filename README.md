@@ -1,6 +1,6 @@
 # nelogica_profit_price_picker
 
- Collect all price data in Profit at once!
+ Collect all price data in Nelogica Profit at once!
 
 Trata-se de um script bem básico que criei porque sou preguiçoso. Não está bem formatado e também não está orientado a objetos (paciência, ainda não sou ágil fazendo códigos assim ~~ainda~~).
 
